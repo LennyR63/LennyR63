@@ -1,4 +1,5 @@
 TRUNCATE TABLE [CodyMappingTraining].[dst].[Mastname]
+GO
 
 DECLARE @states TABLE
 (
